@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/001-link-userservice-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/001-link-userservice-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/002-link-userservice-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/002-link-userservice-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/004-link-studentservice-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/004-link-studentservice-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/005-link-studentservice-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/005-link-studentservice-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/007-zookeeper-stuservice-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/007-zookeeper-stuservice-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/008-zookeeper-stuservice-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/008-zookeeper-stuservice-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/009-zk-stuservice-multi-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/009-zk-stuservice-multi-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/010-zk-stuservice-multi-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/010-zk-stuservice-multi-consumer/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

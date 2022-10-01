@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001-link-userservice-provider/001-link-userservice-provider.iml" filepath="$PROJECT_DIR$/001-link-userservice-provider/001-link-userservice-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-link-userservice-consumer/002-link-userservice-consumer.iml" filepath="$PROJECT_DIR$/002-link-userservice-consumer/002-link-userservice-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003-link-studentservice-interface/003-link-studentservice-interface.iml" filepath="$PROJECT_DIR$/003-link-studentservice-interface/003-link-studentservice-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004-link-studentservice-provider/004-link-studentservice-provider.iml" filepath="$PROJECT_DIR$/004-link-studentservice-provider/004-link-studentservice-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005-link-studentservice-consumer/005-link-studentservice-consumer.iml" filepath="$PROJECT_DIR$/005-link-studentservice-consumer/005-link-studentservice-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006-zookeeper-stuservice-interface/006-zookeeper-stuservice-interface.iml" filepath="$PROJECT_DIR$/006-zookeeper-stuservice-interface/006-zookeeper-stuservice-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007-zookeeper-stuservice-provider/007-zookeeper-stuservice-provider.iml" filepath="$PROJECT_DIR$/007-zookeeper-stuservice-provider/007-zookeeper-stuservice-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/008-zookeeper-stuservice-consumer/008-zookeeper-stuservice-consumer.iml" filepath="$PROJECT_DIR$/008-zookeeper-stuservice-consumer/008-zookeeper-stuservice-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/009-zk-stuservice-multi-provider/009-zk-stuservice-multi-provider.iml" filepath="$PROJECT_DIR$/009-zk-stuservice-multi-provider/009-zk-stuservice-multi-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/010-zk-stuservice-multi-consumer/010-zk-stuservice-multi-consumer.iml" filepath="$PROJECT_DIR$/010-zk-stuservice-multi-consumer/010-zk-stuservice-multi-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code.iml" filepath="$PROJECT_DIR$/code.iml" />
+    </modules>
+  </component>
+</project>

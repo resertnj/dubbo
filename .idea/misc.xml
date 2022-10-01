@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/001-link-userservice-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/002-link-userservice-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/004-link-studentservice-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/005-link-studentservice-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/007-zookeeper-stuservice-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/008-zookeeper-stuservice-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/009-zk-stuservice-multi-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/010-zk-stuservice-multi-consumer" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/001-link-userservice-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/002-link-userservice-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/003-link-studentservice-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/004-link-studentservice-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/005-link-studentservice-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/006-zookeeper-stuservice-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/007-zookeeper-stuservice-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/008-zookeeper-stuservice-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/009-zk-stuservice-multi-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/010-zk-stuservice-multi-consumer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

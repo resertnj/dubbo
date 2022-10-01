@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dubbo="http://dubbo.apache.org/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://dubbo.apache.org/schema/dubbo http://dubbo.apache.org/schema/dubbo/dubbo.xsd">
+    <!-- 配置dubbo的全局名称 -->
+    <dubbo:application name="009-provider.xml" />
+
+    <!-- 设置dubbo的协议和端口号 -->
+    <dubbo:protocol name="dubbo" port="20880" />
+
+    <!-- 配置注册中心 -->
+    <dubbo:registry check="false" address="zookeeper://192.168.13.128:2181" />
+
+    <!-- 设置对外暴露的接口 -->
+    <dubbo:service
+            ref="studentService1"
+            version="1.0.0"
+            interface="com.powernode.dubbo.service.StudentService" />
+
+    <bean id="studentService1" class="com.powernode.dubbo.service.impl.StudentServiceImpl1" />
+
+    <dubbo:service
+            ref="studentService2"
+            version="1.0.1"
+            interface="com.powernode.dubbo.service.StudentService" />
+
+    <bean id="studentService2" class="com.powernode.dubbo.service.impl.StudentServiceImpl2" />
+
+</beans>
